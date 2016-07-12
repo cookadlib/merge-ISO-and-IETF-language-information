@@ -1,0 +1,53 @@
+{
+  "private": true,
+  "name": "merge-ISO-and-IETF-language-information",
+  "description": "API",
+  "version": "0.1.0",
+  "domain": "cookadlib.com",
+  "domains": [
+    "cookadlib.com"
+  ],
+  "homepage": "https://github.com/cookadlib/merge-ISO-and-IETF-language-information#readme",
+  "author": "The Cook AdLib Team",
+  "contributors": [
+    {
+      "name": "Karl Podger",
+      "email": "karl@cookadlib.com"
+    }
+  ],
+  "keywords": [
+    "cooking",
+    "diet",
+    "health",
+    "polymer",
+    "bower",
+    "gulp",
+    "browser-sync",
+    "modernizr",
+    "npm",
+    "node",
+    "docker",
+    "firebase"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.0.0-rc.6",
+    "lodash": "^4.13.1",
+    "request": "^2.72.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=5.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cookadlib/merge-ISO-and-IETF-language-information.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cookadlib/merge-ISO-and-IETF-language-information"
+  }
+}
